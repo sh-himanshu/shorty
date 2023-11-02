@@ -1,7 +1,7 @@
 {
   "name": "url_shortner",
   "version": "1.0.0",
-  "description": "Chrome extention to shortern URL",
+  "description": "Shorty is a chrome extension that allows users to effortlessly shorten URLs and quickly copy the shortened link with just a few clicks.",
   "repository": "https://github.com/sh-himanshu/UrlShortner.git",
   "author": "sh-himanshu <88159798+sh-himanshu@users.noreply.github.com>",
   "license": "MIT",

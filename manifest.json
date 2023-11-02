@@ -1,6 +1,6 @@
 {
-  "name": "URL Shortner",
-  "description": "Chrome extention to shortern URL",
+  "name": "Shorty",
+  "description": "Shorty is a chrome extension that allows users to effortlessly shorten URLs and quickly copy the shortened link with just a few clicks.",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": ["tabs"],
